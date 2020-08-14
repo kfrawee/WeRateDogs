@@ -14,8 +14,8 @@ The tasks for this project were:
   - Assessing data
   - Cleaning data
 - Storing, analyzing, and visualizing the wrangled data
-- Reporting on my data analyses and visualizations. (act_report.pdf)
-- Documentation for data wrangling steps: gather, assess, and clean. (wrangle_report.pdf)
+- Reporting on my data analyses and visualizations. ([act_report.pdf](https://github.com/kfrawee/WeRateDogs/blob/master/act_report.pdf))
+- Documentation for data wrangling steps: gather, assess, and clean. ([wrangle_report.pdf](https://github.com/kfrawee/WeRateDogs/blob/master/wrangle_report.pdf))
 
 ## The Data
 WeRateDogs provided their Twitter archive (which included tweets through August 1, 2017) of basic tweet data (tweet ID, timestamp, text, etc.) for use with this project. The "enhanced" csv file provided by Udacity (twitter_archive_enhanced.csv) also contains columns which were extracted programatically: the rating numerator, rating denominator, dog's name, and dog stages (doggo, floofer, pupper, and puppo). These columns needed to be assessed and cleaned as the extraction process wasn't perfect.
