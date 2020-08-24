@@ -1,4 +1,4 @@
-# WeRateDogs - Data Wrangling [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# WeRateDogs - Data Wrangling [![Awesome](https://awesome.re/badge.svg)]()
 
 ## Introduction
 This project was part of the data wrangling section from **Udacity Data Analyst Nanodegree** program. And it primarily focused on wrangling data from the [WeRateDogs](https://twitter.com/dog_rates) Twitter account using Python, documented in a Jupyter Notebook ([wrangle_act.ipynb](https://github.com/kfrawee/WeRateDogs/blob/master/wrangle_act.ipynb)). This Twitter account rates dogs with humorous commentary. The rating denominator is usually 10, however, the numerators are usually greater than 10. This aspect was not cleaned as it is part of the humor and popularity of WeRateDogs.
