@@ -28,7 +28,7 @@ Udacity also provided a link to image_predictions.tsv which used to download it 
 This project was completed by Muhammad Elkfrawy.<br>
 Aug 2020.
 ____
-
-<img src="https://video.udacity-data.com/topher/2017/October/59dd378f_dog-rates-social/dog-rates-social.jpg" title ="haw haw" alt="WeRateDogs banner" width=80%/>
-
+<p align="center">
+  <img src="https://video.udacity-data.com/topher/2017/October/59dd378f_dog-rates-social/dog-rates-social.jpg" title ="haw haw" alt="WeRateDogs banner" width=80%/>
+</p>
 <hr>
